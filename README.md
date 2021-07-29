@@ -1,6 +1,6 @@
 ### Hi there, I'm [Sync!](https://synxc.carrd.co/) 👋
 
-I am a self-taught web developer that likes to make Web Apps and UI Designs who also dabbles in making [anime artwork](https://www.deviantart.com/syncox)!
+I am a self-taught web developer that likes to make Web Apps and UI Designs. I also am a big fan of anime so I make [fanart](https://www.deviantart.com/syncox) as a hobby!
 
 [![Sync's GitHub stats](https://github-readme-stats.vercel.app/api?username=sync-codes&theme=dracula)](https://github.com/sync-codes/github-readme-stats)
 
