@@ -1,4 +1,4 @@
-### Hi there, I'm [Sync!](https://synxc.carrd.co/) 👋
+### Hi there, I'm [Sync!](https://t.co/ewis5i0753) 👋
 
 I am a self-taught web developer that likes to make Web Apps and UI Designs. I also am a big fan of anime so I make [fanart](https://www.deviantart.com/syncox) as a hobby!
 
