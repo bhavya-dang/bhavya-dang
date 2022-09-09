@@ -17,6 +17,5 @@ I am a self-taught web developer that likes to make Web Apps and UI Designs. I a
 
 * I am currently working on [AniKo](https://github.com/Sync-Codes/AniKo)
 * I am currently learning Vue and GraphQL
-* I also started writing short tutorials on medium which you can check out [here](https://synxc.medium.com/)
-* I also make some art on the side as well which you can check out here [here](https://www.deviantart.com/syncox)
+* I have also started writing short tutorials on medium which you can check out [here](https://synxc.medium.com/)
 * If you like my work, you can also [buy me a coffee!](https://www.buymeacoffee.com/synxc)
