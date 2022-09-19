@@ -15,7 +15,7 @@ I am a self-taught backend developer. I also am a big fan of anime so I make [fa
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code> 
 
 
-* I am currently working on [AniKo](https://github.com/Sync-Codes/AniKo), Shortly! and my portfolio website.
+* I am currently working on [AniKo](https://github.com/Sync-Codes/AniKo), [RPI-Purifier](https://github.com/Sync-Codes/rpi-purifier) and my portfolio website.
 * I am currently learning Vue and GraphQL
 * I have also started writing short tutorials on medium which you can check out [here](https://synxc.medium.com/)
 * If you like my work, you can also [buy me a coffee!](https://www.buymeacoffee.com/synxc)
