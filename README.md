@@ -1,4 +1,4 @@
-### Hi there, I'm [Sync!](https://t.co/ewis5i0753) 👋
+### Hi there, I'm [Sync!](https://devfolio.co/@BhavyaDang) 👋
 
 I am a self-taught backend developer. I also am a big fan of anime so I make [fanart](https://www.deviantart.com/syncox) as a hobby!
 
