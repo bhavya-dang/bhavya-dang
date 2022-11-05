@@ -19,3 +19,4 @@ I am a self-taught backend developer. I also am a big fan of anime so I make [fa
 * I am currently learning MEVN stack.
 * I have also started writing short tutorials on medium which you can check out [here](https://synxc.medium.com/)
 * If you like my work, you can also [buy me a coffee!](https://www.buymeacoffee.com/synxc)
+* You can see my resume 👉 [here](https://sync-codes.github.io/resume/) 👈
