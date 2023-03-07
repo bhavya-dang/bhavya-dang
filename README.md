@@ -1,6 +1,6 @@
 ### Hi there, I'm [Sync!](https://devfolio.co/@BhavyaDang) 👋
 
-I am a self-taught backend developer. I also am a big fan of anime so I make [fanart](https://www.deviantart.com/syncox) as a hobby!
+I am a self-taught full stack developer. I also am a big fan of anime so I make [fanart](https://www.deviantart.com/syncox) as a hobby!
 
 [![Sync's GitHub stats](https://github-readme-stats.vercel.app/api?username=sync-codes&theme=dracula)](https://github.com/sync-codes/github-readme-stats)
 
