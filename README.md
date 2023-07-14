@@ -10,7 +10,7 @@ I am a self-taught full-stack developer. I also am a big fan of anime so I make 
 <code><img height="20" src="https://skillicons.dev/icons?i=javascript,vue,react,next,tailwind,prisma,mongo,postgres" /></code>
 
 
-* I am currently working on my personal website, [D3Movie](https://github.com/Sync-Codes/Symbiosis-Website), [AniKo](https://github.com/Sync-Codes/AniKo) and [Shortly](https://github.com/Sync-Codes/Shortly).
+* I am currently working on my [my personal website](bhavyadang.vercel.app), [D3Movie](https://github.com/Sync-Codes/Symbiosis-Website), [AniKo](https://github.com/Sync-Codes/AniKo) and [Shortly](https://github.com/Sync-Codes/Shortly).
 * I am currently learning and using Next.js and Prisma.
 * I have also started writing short tutorials on Medium which you can check out [here](https://synxc.medium.com/)
 * If you like my work, you can also [buy me a coffee!](https://www.buymeacoffee.com/synxc)
