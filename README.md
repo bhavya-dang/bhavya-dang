@@ -1,4 +1,4 @@
-### Hi there, I'm Bhavya Dang. Also knows as [Sync!]([https://devfolio.co/@BhavyaDang](https://bhavyadang.vercel.app/projects)) 👋
+### Hi there, I'm Bhavya Dang. Also knows as [Sync!](https://bhavyadang.vercel.app/projects) 👋
 
 I am a self-taught full-stack developer. I also make [fanart](https://www.deviantart.com/syncox) as a hobby!
 
