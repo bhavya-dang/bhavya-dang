@@ -12,7 +12,7 @@ I am a self-taught full-stack developer. I also make [fanart](https://www.devian
 
 
 
-* I am currently working on my [my personal website](bhavyadang.vercel.app), [D3Movie](https://github.com/Sync-Codes/D3Movie), [AniKo](https://github.com/Sync-Codes/AniKo) and [Shortly](https://github.com/Sync-Codes/Shortly).
+* I am currently working on my [my personal website](https://www.bhavyadang.tech/), [D3Movie](https://github.com/Sync-Codes/D3Movie), [AniKo](https://github.com/Sync-Codes/AniKo) and [Shortly](https://github.com/Sync-Codes/Shortly).
 * I am currently learning and using Next.js and Prisma.
 * If you like my work, you can also [buy me a coffee!](https://www.buymeacoffee.com/synxc)
 * You can see my resume 👉 [here](https://sync-codes.github.io/resume/) 👈
