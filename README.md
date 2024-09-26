@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=bhavya-dang&color=blueviolet)
 ### Hi there, I'm Bhavya Dang. Also known as [Sync!](https://bhavyadang.tech/) 👋
 
 I am a self-taught full-stack developer. I also make [fanart](https://www.deviantart.com/syncox) as a hobby!
