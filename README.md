@@ -1,8 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=bhavya-dang&color=blueviolet)
+
 ### Hi there, I'm Bhavya Dang. Also known as [Sync!](https://bhavyadang.in/) 👋
 
 I am a self-taught full-stack developer and automation tester. I also make [fanart](https://www.deviantart.com/syncox) as a hobby!
+
 > I make YouTube videos now! You can find my channel [here](https://www.youtube.com/@bhavyadangdev).
+
  <p align="left">
       <a href="https://www.youtube.com/@bhavyadangdev?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2Soj_Sfe_rUzBytOug0qwA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
@@ -16,8 +19,6 @@ I am a self-taught full-stack developer and automation tester. I also make [fana
    
    ---
 
-
-
 ### 🚀 Technologies and Tools
 
 <code><img height="20" src="https://skillicons.dev/icons?i=javascript,vue,react,next,tailwind,prisma,mongo,postgres,figma,premiere,supabase" /></code>
@@ -25,8 +26,16 @@ I am a self-taught full-stack developer and automation tester. I also make [fana
 
 ### 📺 Latest YouTube Videos
 
-* I am currently working as an SDET at Ciena.
-* If you like my work, you can also [buy me a coffee!](https://www.buymeacoffee.com/synxc) or sponsor me!
-* You can see my resume 👉 [here](https://bhavya-dang.github.io/resume/) 👈
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+---
+
+- I am currently working as an SDET at Ciena.
+- You can see my resume 👉 [here](https://bhavya-dang.github.io/resume/) 👈
+
+---
+
+### Stats
 
 [![Sync's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavya-dang&show_icons=true&theme=midnight-purple)](https://github.com/bhavya-dang/github-readme-stats)
