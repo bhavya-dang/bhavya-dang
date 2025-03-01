@@ -9,20 +9,21 @@ I am a self-taught full-stack developer and automation tester. I also make [fana
 <p align="left">
   <a href="https://www.youtube.com/@bhavyadangdev?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" 
-         src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2Soj_Sfe_rUzBytOug0qwA?color=%23E05D44https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2Soj_Sfe_rUzBytOug0qwA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> label=SUBSCRIBEhttps://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2Soj_Sfe_rUzBytOug0qwA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> logo=videohttps://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2Soj_Sfe_rUzBytOug0qwA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> logoColor=whitehttps://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2Soj_Sfe_rUzBytOug0qwA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> style=for-the-badgehttps://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2Soj_Sfe_rUzBytOug0qwA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> labelColor=CE4630https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2Soj_Sfe_rUzBytOug0qwA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> timestamp=1740852021
+         src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2Soj_Sfe_rUzBytOug0qwA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630&timestamp=${Math.floor(Date.now() / 1000)}"/></a> 
 
   <a href="https://www.youtube.com/@bhavyadangdev">
     <img alt="youtube views" title="YouTube views" 
-         src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2Soj_Sfe_rUzBytOug0qwA?color=%23E1AD0Ehttps://custom-icon-badges.demolab.com/youtube/channel/views/UC2Soj_Sfe_rUzBytOug0qwA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> label=VIEWShttps://custom-icon-badges.demolab.com/youtube/channel/views/UC2Soj_Sfe_rUzBytOug0qwA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> logo=eyehttps://custom-icon-badges.demolab.com/youtube/channel/views/UC2Soj_Sfe_rUzBytOug0qwA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> logoColor=whitehttps://custom-icon-badges.demolab.com/youtube/channel/views/UC2Soj_Sfe_rUzBytOug0qwA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> style=for-the-badgehttps://custom-icon-badges.demolab.com/youtube/channel/views/UC2Soj_Sfe_rUzBytOug0qwA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> labelColor=C79600https://custom-icon-badges.demolab.com/youtube/channel/views/UC2Soj_Sfe_rUzBytOug0qwA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> timestamp=1740852021
+         src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2Soj_Sfe_rUzBytOug0qwA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600&timestamp=${Math.floor(Date.now() / 1000)}"/></a> 
 
   <a href="https://github.com/bhavya-dang?tab=followers">
     <img alt="followers" title="Follow me on Github" 
-         src="https://custom-icon-badges.demolab.com/github/followers/bhavya-dang?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         src="https://custom-icon-badges.demolab.com/github/followers/bhavya-dang?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white&timestamp=${Math.floor(Date.now() / 1000)}"/></a>
 
   <a href="https://github.com/bhavya-dang?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" 
-         src="https://custom-icon-badges.demolab.com/github/stars/bhavya-dang?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         src="https://custom-icon-badges.demolab.com/github/stars/bhavya-dang?color=55960c&style=for-the-badge&labelColor=488207&logo=star&timestamp=${Math.floor(Date.now() / 1000)}"/></a>
 </p>
+
 
 
 
