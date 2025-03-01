@@ -1,9 +1,9 @@
-name: Update README Badge
+name: Update README Badges
 
 on:
   schedule:
     - cron: "0 * * * *"  # Runs every hour
-  workflow_dispatch:
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   update-readme:
@@ -15,14 +15,16 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Update README with a fresh timestamp
+      - name: Update README with fresh badge timestamps
         run: |
           sed -i "s|https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2Soj_Sfe_rUzBytOug0qwA[^)]*|https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2Soj_Sfe_rUzBytOug0qwA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630&timestamp=$(date +%s)|g" README.md
+          
+          sed -i "s|https://custom-icon-badges.demolab.com/youtube/channel/views/UC2Soj_Sfe_rUzBytOug0qwA[^)]*|https://custom-icon-badges.demolab.com/youtube/channel/views/UC2Soj_Sfe_rUzBytOug0qwA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600&timestamp=$(date +%s)|g" README.md
 
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add README.md
-          git commit -m "Updated YouTube badge timestamp" || exit 0
+          git commit -m "Updated YouTube badges with latest stats" || exit 0
           git push
