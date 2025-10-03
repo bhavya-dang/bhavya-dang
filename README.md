@@ -44,7 +44,7 @@ I am a self-taught full-stack developer and automation tester. I also make [fana
 
 ---
 
-- I am currently working as an SDET at Ciena.
+- I am currently working as an SVT/PV Software Systems Engineer at Ciena.
 - You can see my resume 👉 [here](https://bhavya-dang.github.io/resume/) 👈
 
 ---
