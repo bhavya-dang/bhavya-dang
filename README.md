@@ -48,7 +48,10 @@ I am a self-taught full-stack developer and automation tester. I also make [fana
 - You can see my resume 👉 [here](https://bhavya-dang.github.io/resume/) 👈
 
 ---
+<!-- stats deployment paused -->
 
+<!--
 ### Stats
 
-[![Sync's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavya-dang&show_icons=true&theme=midnight-purple)](https://github.com/bhavya-dang/github-readme-stats)
+[![Sync's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavya-dang&show_icons=true&theme=midnight-purple)](https://github.com/bhavya-dang/github-readme-stats) -->
+
