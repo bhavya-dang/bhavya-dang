@@ -1,10 +1,9 @@
-![](https://komarev.com/ghpvc/?username=bhavya-dang&color=blueviolet)
+### Hi there, I'm [Bhavya Dang](https://bhavyadang.in/) 👋
 
-### Hi there, I'm Bhavya Dang. Also known as [Sync!](https://bhavyadang.in/) 👋
+Full-stack developer building developer tools, automation systems, and modern web experiences.<br/>
+Primarily working with React, Next.js, TypeScript, automation workflows, and developer tooling.<br/>
+Check out my resume [here](https://resume.bhavyadang.in)
 
-I am a self-taught full-stack developer and automation tester. I also make [fanart](https://www.deviantart.com/syncox) as a hobby!
-
-> I make YouTube videos now! You can find my channel [here](https://www.youtube.com/@bhavyadangdev).
 
 <p align="left">
   <a href="https://www.youtube.com/@bhavyadangdev?sub_confirmation=1">
@@ -26,12 +25,21 @@ I am a self-taught full-stack developer and automation tester. I also make [fana
 
    ---
 
-### 🚀 Technologies and Tools
+### My Daily Drivers
 
-<code><img height="20" src="https://skillicons.dev/icons?i=javascript,vue,react,next,tailwind,prisma,mongo,postgres,figma,premiere,supabase" /></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=typescript,javascript,vue,react,next,tailwind,mongo,figma,premiere,supabase,vercel,go" /></code>
 <br/>
 
-### 📺 Latest YouTube Videos
+### Currently
+
+- Working as an SVT/PV Software Systems Engineer at [Ciena](https://www.ciena.com/).
+- Building [Solace](https://solace.bhavyadang.in). A family of violet themes for your favourite tools. [Install now for Zed](https://github.com/bhavya-dang/Solace)
+- Building [Thinkspace](https://thinkspacede.in)
+- Learning Go, System Design, and AI tooling
+
+---
+
+### Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Using Notion as a CMS? | Nextjs Tutorial](https://ytcards.demolab.com/?id=c3cAOR6Imyc&title=Using+Notion+as+a+CMS%3F+%7C+Nextjs+Tutorial&lang=en&timestamp=1743949817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Using Notion as a CMS? | Nextjs Tutorial")](https://www.youtube.com/watch?v=c3cAOR6Imyc)
@@ -41,17 +49,3 @@ I am a self-taught full-stack developer and automation tester. I also make [fana
 [![API Routes using Next.js: A Comprehensive Guide](https://ytcards.demolab.com/?id=lgEz6qJaiCg&title=API+Routes+using+Next.js%3A+A+Comprehensive+Guide&lang=en&timestamp=1740321019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "API Routes using Next.js: A Comprehensive Guide")](https://www.youtube.com/watch?v=lgEz6qJaiCg)
 [![Dark Mode Toggle in React and Tailwind CSS: The Right Way!](https://ytcards.demolab.com/?id=7WEIWJkjmHQ&title=Dark+Mode+Toggle+in+React+and+Tailwind+CSS%3A+The+Right+Way%21&lang=en&timestamp=1739717937&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dark Mode Toggle in React and Tailwind CSS: The Right Way!")](https://www.youtube.com/watch?v=7WEIWJkjmHQ)
 <!-- END YOUTUBE-CARDS -->
-
----
-
-- I am currently working as an SVT/PV Software Systems Engineer at Ciena.
-- You can see my resume 👉 [here](https://bhavya-dang.github.io/resume/) 👈
-
----
-<!-- stats deployment paused -->
-
-<!--
-### Stats
-
-[![Sync's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavya-dang&show_icons=true&theme=midnight-purple)](https://github.com/bhavya-dang/github-readme-stats) -->
-
