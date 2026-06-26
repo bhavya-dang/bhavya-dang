@@ -34,7 +34,7 @@ Check out my resume [here](https://resume.bhavyadang.in)
 
 - Working as an SVT/PV Software Systems Engineer at [Ciena](https://www.ciena.com/).
 - Building [Solace](https://solace.bhavyadang.in). A family of violet themes for your favourite tools. [Install now for Zed](https://github.com/bhavya-dang/Solace)
-- Building [Thinkspace](https://thinkspacede.in)
+- Building [Thinkspace](https://thinkspacede.in). A creative maker community for the people who don't want to just consume.
 - Learning Go, System Design, and AI tooling
 
 ---
