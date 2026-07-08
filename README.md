@@ -36,7 +36,7 @@ Check out my resume [here](https://resume.bhavyadang.in)
 - Learning Go, System Design, and AI tooling
 - Building
   - [Solace](https://solace.bhavyadang.in): A family of violet themes for your favourite tools. [Install now for Zed](https://github.com/bhavya-dang/Solace)
-  - [pkgui](https://github.com/bhavya-dang/pkgui): A terminal UI for managing packages across multiple package managers. [Install via Homebrew](https://github.com/bhavya-dang/pkgui#using-homebrew)
+  - [pkgui](https://github.com/bhavya-dang/pkgui): A terminal UI for managing packages across multiple package managers. [Install via Go](https://github.com/bhavya-dang/pkgui#using-go)
   - [Thinkspace](https://thinkspacedel.in): A creative maker community for the people who don't want to just consume.
 
 ---
