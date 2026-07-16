@@ -35,7 +35,7 @@ Check out my resume [here](https://resume.bhavyadang.in)
 - Working as an SVT/PV Software Systems Engineer at [Ciena](https://www.ciena.com/).
 - Learning Go, System Design, and AI tooling
 - Building
-  - [Solace](https://solace.bhavyadang.in): A family of violet themes for your favourite tools. [Install now for Zed](https://github.com/bhavya-dang/Solace)
+  - [Solace](https://solace.bhavyadang.in): A family of violet themes for your favourite tools. [Install now for Zed and Obsidian](https://github.com/Solace-Theme/.github/#readme)
   - [pkgui](https://github.com/bhavya-dang/pkgui): A terminal UI for managing packages across multiple package managers. [Install now](https://github.com/bhavya-dang/pkgui#using-makefile)
   - [mstat](https://github.com/bhavya-dang/mstat): A modern replacement of the stat command with bordered outputs and displays. [Install now](https://github.com/bhavya-dang/mstat#using-makefile)
   - [Thinkspace](https://thinkspacedel.in): A creative maker community for the people who don't want to just consume.
